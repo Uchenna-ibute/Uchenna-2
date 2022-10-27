@@ -1,4 +1,4 @@
-# Xojo (formerly REALbasic and Real Studio)
 
-*.md
-*.node_module
+test.md
+/node_modules
+
